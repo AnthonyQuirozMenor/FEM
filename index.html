@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <meta name="description" content="Línea de Tiempo y Memoria Visual de FEM Comunicaciones - Universidad Peruana Unión (UPeU)">
+    <meta name="theme-color" content="#060D19">
+    <title>FEM COMUNICACIONES | Memoria Visual & Línea de Tiempo</title>
+    
+    <!-- Google Fonts: Outfit (Display & Numbers) + Plus Jakarta Sans (Body & UI) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome 6 Pro-quality Free CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom Design System Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- 3D Cosmic Starfield Canvas -->
+    <canvas id="universeCanvas"></canvas>
+
+    <!-- Deep Ambient Glow Lighting Layers -->
+    <div class="ambient-glow glow-top-left"></div>
+    <div class="ambient-glow glow-bottom-right"></div>
+    <div class="ambient-glow glow-center"></div>
+
+    <!-- Header Glassmorphic de Alta Jerarquía -->
+    <header class="app-header" id="appHeader">
+        <div class="header-container">
+            <!-- Marca Institucional -->
+            <div class="header-brand">
+                <div class="brand-logo-gem">
+                    <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                        <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                    </svg>
+                </div>
+                <div class="brand-info">
+                    <h1 class="brand-title">FEM COMUNICACIONES</h1>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Contenedor Principal de la Línea de Tiempo -->
+    <main class="app-main">
+        <div class="timeline-container" id="timelineContainer">
+            <!-- Riel / Guía Luminosa de la Línea de Tiempo -->
+            <div class="timeline-track-line"></div>
+            
+            <!-- Items de la Línea de Tiempo -->
+            <div id="timelineItems" class="timeline-items">
+                <!-- Estado de Carga -->
+                <div class="timeline-loading-state">
+                    <div class="loading-spinner"></div>
+                    <p>Sincronizando memorias misioneras del universo...</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Botón Flotante para Subir en Celulares -->
+    <button id="scrollTopBtn" class="floating-scroll-top" title="Volver al inicio" aria-label="Volver arriba">
+        <i class="fa-solid fa-chevron-up"></i>
+    </button>
+
+    <!-- Lightbox Modal de Cine (Fotos y Videos HD) -->
+    <div id="lightbox" class="cinema-lightbox" role="dialog" aria-modal="true" aria-label="Visor Multimedia">
+        <div class="lightbox-backdrop"></div>
+        
+        <!-- Barra de herramientas superior del Lightbox -->
+        <div class="lightbox-top-bar">
+            <div class="lightbox-item-counter" id="lightboxCounter">
+                <i class="fa-solid fa-image"></i>
+                <span id="lightboxCounterText">Foto 1 de 1</span>
+            </div>
+            <div class="lightbox-actions">
+                <button class="lightbox-tool-btn" id="lightboxZoomBtn" title="Pantalla completa" aria-label="Pantalla completa">
+                    <i class="fa-solid fa-expand"></i>
+                </button>
+                <button class="lightbox-tool-btn lightbox-close-btn" id="lightboxCloseBtn" title="Cerrar (Esc)" aria-label="Cerrar">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+        </div>
+
+        <!-- Botones de Navegación del Lightbox -->
+        <button class="lightbox-nav-btn prev-btn" id="lightboxPrev" aria-label="Elemento anterior" title="Anterior (Flecha Izquierda)">
+            <i class="fa-solid fa-chevron-left"></i>
+        </button>
+        <button class="lightbox-nav-btn next-btn" id="lightboxNext" aria-label="Elemento siguiente" title="Siguiente (Flecha Derecha)">
+            <i class="fa-solid fa-chevron-right"></i>
+        </button>
+
+        <!-- Contenido Central del Lightbox -->
+        <div class="lightbox-stage">
+            <div class="lightbox-media-wrapper">
+                <img id="lightboxImg" src="" alt="Vista ampliada de actividad misionera">
+                <video id="lightboxVideo" controls playsinline preload="metadata" style="display: none;"></video>
+            </div>
+            <div class="lightbox-caption-card">
+                <p id="lightboxCaption" class="lightbox-caption-text"></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Notificación Toast Flotante -->
+    <div id="toast" class="toast-alert" role="status" aria-live="polite"></div>
+
+    <!-- Librería Three.js para el Fondo Espacial 3D -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <!-- Lógica de la Aplicación -->
+    <script src="app.js"></script>
+</body>
+</html>

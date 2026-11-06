@@ -1,0 +1,291 @@
+[
+  {
+    "id": "sat_1",
+    "date": "2026-08-22",
+    "formattedDate": "Sábado, 22 de agosto de 2026",
+    "activities": [
+      {
+        "id": "sat_1_act_1",
+        "name": "REUNIÓN DE LÍDERES",
+        "description": "Vivimos una jornada especial de aprendizaje, integración y presentación de proyectos junto a nuestros líderes de Facultades en Misión. Fue inspirador ver a tantos jóvenes dispuestos a poner sus talentos y profesiones al servicio de Dios y de la comunidad. 🙏🏼🌎Nuestro agradecimiento a cada estudiante, docente, coordinador y capellán que participó con entusiasmo y compromiso. Que cada proyecto lleve esperanza, transforme vidas y deje una huella de amor",
+        "photos": [
+          "fotos/22_agos/reunion de lideres/a1.jpg",
+          "fotos/22_agos/reunion de lideres/a2.jpg",
+          "fotos/22_agos/reunion de lideres/a3.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_2",
+    "date": "2026-08-29",
+    "formattedDate": "Sábado, 29 de agosto de 2026",
+    "activities": [
+      {
+        "id": "sat_2_act_1",
+        "name": "PRIMER ENCUENTRO COMO FEM",
+        "description": "Nuestro primer encuentro como FEM Comunicaciones fue también nuestra primera práctica como equipo; visitamos a los diferentes FEM para conocer de cerca sus actividades y, además, brindamos apoyo en las transmisiones.",
+        "photos": [
+          "fotos/29_agos/primer encuentro como fem/a1.jpeg",
+          "fotos/29_agos/primer encuentro como fem/a2.jpeg",
+          "fotos/29_agos/primer encuentro como fem/a3.jpeg",
+          "fotos/29_agos/primer encuentro como fem/a4.jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_3",
+    "date": "2026-09-05",
+    "formattedDate": "Sábado, 5 de septiembre de 2026",
+    "activities": [
+      {
+        "id": "sat_3_act_1",
+        "name": "GUERREROS DE ESPERANZA",
+        "description": "El FEM Guerreros de Esperanza está conformado por jóvenes comprometidos con la misión, quienes comparten el mensaje de Jesús a través de estudios bíblicos.",
+        "photos": [
+          "fotos/5_sep/primera salida/gerreros de esperanza/a1.jpeg",
+          "fotos/5_sep/primera salida/gerreros de esperanza/a2.jpeg",
+          "fotos/5_sep/primera salida/gerreros de esperanza/a3.jpeg",
+          "fotos/5_sep/primera salida/gerreros de esperanza/a4.jpeg"
+        ]
+      },
+      {
+        "id": "sat_3_act_2",
+        "name": "MANUALIDADES",
+        "description": "El FEM Manualidades estaba coordinando sus actividades para este ciclo; ellos trabajan con niños, enseñándoles la Palabra de Dios a través de las manualidades.",
+        "photos": [
+          "fotos/5_sep/primera salida/manualidades/a1.jpeg",
+          "fotos/5_sep/primera salida/manualidades/a2.jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_4",
+    "date": "2026-09-12",
+    "formattedDate": "Sábado, 12 de septiembre de 2026",
+    "activities": [
+      {
+        "id": "sat_4_act_1",
+        "name": "INICIO DE LA SEMANA REVIVE: LOS ELEGIDOS",
+        "description": "La Semana Revive “Los Elegidos” inició como una semana especial de énfasis espiritual junto al Pr. Tavito Cevallos, quien compartió mensajes orientados a escuchar la voz de Dios, confiar en Él y responder a su llamado.",
+        "photos": [
+          "fotos/12_sep/inicio semana revive/a1.jpg",
+          "fotos/12_sep/inicio semana revive/a2.jpg",
+          "fotos/12_sep/inicio semana revive/a3.jpg",
+          "fotos/12_sep/inicio semana revive/a4.jpg",
+          "fotos/12_sep/inicio semana revive/a5.jpg",
+          "fotos/12_sep/inicio semana revive/a6.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_5",
+    "date": "2026-09-19",
+    "formattedDate": "Sábado, 19 de septiembre de 2026",
+    "activities": [
+      {
+        "id": "sat_5_act_1",
+        "name": "CIERRE DE LA SEMANA REVIVE: LOS ELEGIDOS",
+        "description": "La Semana Revive “Los Elegidos” culminó con alegría y gratitud, dejando una huella especial en los estudiantes, y varios jóvenes decidieron entregar sus vidas a Jesús mediante el bautismo, reafirmando su fe y compromiso con Dios.",
+        "photos": [
+          "fotos/19_sep/cierre semana revive/a1.jpg",
+          "fotos/19_sep/cierre semana revive/a2.jpg",
+          "fotos/19_sep/cierre semana revive/a3.jpg",
+          "fotos/19_sep/cierre semana revive/a4.jpg",
+          "fotos/19_sep/cierre semana revive/a5.jpg",
+          "fotos/19_sep/cierre semana revive/a6.jpg",
+          "fotos/19_sep/cierre semana revive/a7.jpg",
+          "fotos/19_sep/cierre semana revive/a8.jpg",
+          "fotos/19_sep/cierre semana revive/a9.jpg",
+          "fotos/19_sep/cierre semana revive/a10.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_6",
+    "date": "2026-09-26",
+    "formattedDate": "Sábado, 26 de septiembre de 2026",
+    "activities": [
+      {
+        "id": "sat_3_act_3",
+        "name": "SEMBRANDO ESPERANZA",
+        "description": "El FEM Sembrando Esperanza nació a inicios del semestre 2025-II como una iniciativa conformada por un grupo de estudiantes comprometidos con compartir el mensaje de Jesús con los niños de la comunidad de Jardines de la Planicie. Nuestra labor consiste en acercarnos a ellos de una manera alegre, dinámica y cercana, creando espacios donde puedan aprender, participar y sentirse acompañados. Durante cada jornada realizamos juegos, dinámicas, cantos y diversas actividades participativas que permiten transmitir valores cristianos de una forma sencilla y significativa. A través de cada encuentro buscamos enseñar a los niños sobre el amor de Dios, fortalecer su fe y dejar en ellos un mensaje de esperanza, alegría y confianza en Jesús.",
+        "photos": [
+          "fotos/26_sep/segunda salida/sembrando esperanza/a1.jpeg",
+          "fotos/26_sep/segunda salida/sembrando esperanza/a2.jpeg",
+          "fotos/26_sep/segunda salida/sembrando esperanza/a3.jpeg",
+          "fotos/26_sep/segunda salida/sembrando esperanza/a4.jpeg",
+          "fotos/26_sep/segunda salida/sembrando esperanza/a5.jpeg",
+          "fotos/26_sep/segunda salida/sembrando esperanza/a6.jpeg",
+          "fotos/26_sep/segunda salida/sembrando esperanza/a7.jpeg",
+          "fotos/26_sep/segunda salida/sembrando esperanza/a8.jpeg",
+          "fotos/26_sep/segunda salida/sembrando esperanza/a9.jpeg"
+        ],
+        "videos": [
+          "fotos/26_sep/segunda salida/sembrando esperanza/v1.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_8",
+    "date": "2026-10-10",
+    "formattedDate": "Sábado, 10 de octubre de 2026",
+    "activities": [
+      {
+        "id": "sat_6_act_1",
+        "name": "CHECKPOINT",
+        "description": "El FEM de CHECKPOINT está conformado por estudiantes de Ingeniería de Sistemas que, sábado a sábado, enseñan a los niños del colegio 10 de Agosto y comparten el amor de Jesús a través de sus enseñanzas y actividades.",
+        "photos": [
+          "fotos/10_oct/tercera salida/checkpoint/a1.jpg",
+          "fotos/10_oct/tercera salida/checkpoint/a2.jpg",
+          "fotos/10_oct/tercera salida/checkpoint/a3.jpeg",
+          "fotos/10_oct/tercera salida/checkpoint/a4.jpeg",
+          "fotos/10_oct/tercera salida/checkpoint/a5.jpeg",
+          "fotos/10_oct/tercera salida/checkpoint/a6.jpeg",
+          "fotos/10_oct/tercera salida/checkpoint/a7.jpeg",
+          "fotos/10_oct/tercera salida/checkpoint/a8.jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_9",
+    "date": "2026-10-17",
+    "formattedDate": "Sábado, 17 de octubre de 2026",
+    "activities": [
+      {
+        "id": "sat_6_act_2",
+        "name": "MATEMÁTICAS",
+        "description": "El FEM de Matemáticas está conformado por jóvenes universitarios que realizan su misión en la localidad de Los Tulipanes, donde enseñan matemáticas a los niños y, a través de ellas, comparten el mensaje de Jesús, con el apoyo de los docentes de la UPeU.",
+        "photos": [
+          "fotos/17_oct/cuarta salida/matematicas/a1.jpeg",
+          "fotos/17_oct/cuarta salida/matematicas/a2.png",
+          "fotos/17_oct/cuarta salida/matematicas/a3.jpeg",
+          "fotos/17_oct/cuarta salida/matematicas/a4.jpeg",
+          "fotos/17_oct/cuarta salida/matematicas/a5.jpeg",
+          "fotos/17_oct/cuarta salida/matematicas/a6.jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_10",
+    "date": "2026-10-24",
+    "formattedDate": "Sábado, 24 de octubre de 2026",
+    "activities": [
+      {
+        "id": "sat_8_act_1",
+        "name": "ECOTRANSFORMADORES",
+        "description": "El FEM de ECOTRANSFORMADORES está conformado por jóvenes universitarios de la carrera de Ingeniería Ambiental de la UPeU, quienes, sábado a sábado, visitan el colegio 10 de Agosto para compartir sus conocimientos y enseñar a los niños mediante actividades educativas, dinámicas y valores cristianos. A través de cada enseñanza, buscan inspirar a los pequeños, fomentar su aprendizaje integral y, sobre todo, transmitir el amor de Jesús, contribuyendo a su formación académica, personal y espiritual.",
+        "photos": [
+          "fotos/24_oct/quinta salida/ecotransformadores/a1.jpg",
+          "fotos/24_oct/quinta salida/ecotransformadores/a2.jpg",
+          "fotos/24_oct/quinta salida/ecotransformadores/a3.jpg",
+          "fotos/24_oct/quinta salida/ecotransformadores/a4.jpg",
+          "fotos/24_oct/quinta salida/ecotransformadores/a5.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_11",
+    "date": "2026-10-31",
+    "formattedDate": "Sábado, 31 de octubre de 2026",
+    "activities": [
+      {
+        "id": "sat_8_act_2",
+        "name": "SALVADOS PARA SERVIR",
+        "description": "El FEM SALVADOS PARA SERVIR está conformado por jóvenes universitarios de la Escuela Profesional de Enfermería de la UPeU, quienes dedican su tiempo y esfuerzo a enseñar a niños menores de cuatro años mediante dinámicas, juegos educativos, colores y actividades recreativas que estimulan su aprendizaje, creatividad y desarrollo integral. A través de cada actividad, buscan brindar un ambiente de amor, alegría y confianza, contribuyendo al desarrollo de sus habilidades desde la primera infancia y compartiendo los valores cristianos. De esta manera, ponen en práctica su vocación de servicio y reflejan el amor de Jesús mediante acciones que dejan huellas positivas en la vida de los más pequeños.",
+        "photos": [
+          "fotos/31_oct/sexta salida/salvados para servir/a1.jpeg",
+          "fotos/31_oct/sexta salida/salvados para servir/a2.jpeg",
+          "fotos/31_oct/sexta salida/salvados para servir/a3.jpeg",
+          "fotos/31_oct/sexta salida/salvados para servir/a4.jpeg",
+          "fotos/31_oct/sexta salida/salvados para servir/a5.jpeg",
+          "fotos/31_oct/sexta salida/salvados para servir/a6.jpeg"
+        ]
+      },
+      {
+        "id": "sat_8_act_3",
+        "name": "ABRIENDO CAMINOS",
+        "description": "El FEM ABRIENDO CAMINOS está conformado por jóvenes universitarios de la Escuela Profesional de Enfermería de la UPeU, quienes realizan su labor misionera en el sector La Planicie, donde comparten enseñanzas y desarrollan actividades educativas y recreativas dirigidas a los niños. A través de dinámicas, juegos y momentos de aprendizaje, buscan fomentar valores, fortalecer el desarrollo integral de los pequeños y crear un ambiente de confianza, alegría y compañerismo. Asimismo, mediante su servicio y dedicación, transmiten el amor de Jesús, dejando una huella positiva en cada niño y contribuyendo a su formación espiritual y personal.",
+        "photos": [
+          "fotos/31_oct/sexta salida/abriendo caminos/a1.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a2.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a3.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a4.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a5.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a6.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a7.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a8.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a9.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a10.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a11.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a12.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a13.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a14.jpeg",
+          "fotos/31_oct/sexta salida/abriendo caminos/a15.jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_12",
+    "date": "2026-11-07",
+    "formattedDate": "Sábado, 7 de noviembre de 2026",
+    "activities": [
+      {
+        "id": "sat_12_act_1",
+        "name": "CREARQ",
+        "description": "El FEM CREARQ está conformado por jóvenes universitarios de la Escuela Profesional de Arquitectura de la UPeU, quienes realizan su labor misionera en el sector San Juan de Cumbaza, donde comparten el amor de Jesús con los niños de la comunidad. A través de historias bíblicas, enseñanzas, dibujos, pinturas y actividades para colorear, buscan transmitir valores cristianos, fortalecer la creatividad y fomentar el aprendizaje de los pequeños. Asimismo, mediante juegos y momentos de integración, crean espacios de alegría, confianza y compañerismo, contribuyendo a su formación espiritual y personal. Con entusiasmo, dedicación y espíritu de servicio, estos jóvenes llevan un mensaje de esperanza y amor, dejando huellas positivas en el corazón de cada niño.",
+        "photos": [
+          "fotos/7_nov/septima salida/crearq/a1.jpeg",
+          "fotos/7_nov/septima salida/crearq/a2.jpeg",
+          "fotos/7_nov/septima salida/crearq/a3.jpeg",
+          "fotos/7_nov/septima salida/crearq/a4.jpeg",
+          "fotos/7_nov/septima salida/crearq/a5.jpeg",
+          "fotos/7_nov/septima salida/crearq/a6.jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_13",
+    "date": "2026-11-14",
+    "formattedDate": "Sábado, 14 de noviembre de 2026",
+    "activities": [
+      {
+        "id": "sat_13_act_1",
+        "name": "COMUNICACIONES (UN SÁBADO PARA NUESTRO FEM)",
+        "description": "",
+        "photos": [
+          "fotos/14_nov/un sabado para nuestro fem/comunicaciones/a1.jpg",
+          "fotos/14_nov/un sabado para nuestro fem/comunicaciones/a2.jpg",
+          "fotos/14_nov/un sabado para nuestro fem/comunicaciones/a3.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sat_14",
+    "date": "2026-11-21",
+    "formattedDate": "Sábado, 21 de noviembre de 2026",
+    "activities": [
+      {
+        "id": "sat_14_act_1",
+        "name": "CIERRE DE ACTIVIDADES ESPIRITUALES",
+        "description": "Jornada final y reunión de clausura de las actividades espirituales 2026-II.",
+        "photos": [
+          "fotos/21_nov/cierre de actividades espirituales/a1.jpg",
+          "fotos/21_nov/cierre de actividades espirituales/a2.jpg",
+          "fotos/21_nov/cierre de actividades espirituales/a3.jpg"
+        ]
+      }
+    ]
+  }
+]
